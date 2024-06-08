@@ -1,4 +1,7 @@
 site_name: Матвей Кельдов
+nav:
+  - Homepage: index.md
+  - Проза: prose.md
 theme:
   name: material
   features:
